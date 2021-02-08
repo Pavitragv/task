@@ -1,0 +1,154 @@
+
+.image{
+  height: 150px;
+  
+}
+
+.body{
+  padding: 100px;
+  display: flex;
+  font-family:'emoji'
+}
+
+.subbody{
+  position: relative;
+  left:5%;
+  line-height: 11px;
+  
+}
+.figcaption{
+  position: relative;
+  left: -32%;
+  top: 11%;
+}
+.addcartbutton{
+  background-color: #36d43c;
+  border: none;
+  color: black;
+  height: 35px;
+  padding: 4px 25px;
+  font-weight:bold;
+  border-radius: 5px;
+}
+.plusbutton{
+  background-color: #36d43c;
+  border: none;
+  color: black;
+  padding: 4px 17px;
+  position: relative;
+  left: 5%;
+  height: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 54%;
+}
+
+.minusbutton{
+  background-color: #36d43c;
+  border: none;
+  color: black;
+  padding: 4px 17px;
+  position: relative;
+  left: 20%;
+  height: 30px;
+  border-radius: 54%;
+  font-size: 20px;
+  font-weight: bold;
+  
+}
+
+.quanity{
+  position: relative;
+  left:12%;
+}
+
+.hr{
+  color: black;
+  width: 100%;
+  position: relative;
+}
+
+.footer{
+  height: 75px;
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color:rgb(233, 14, 149);
+      color: black;
+padding: 12px;     
+}
+
+.checkout{
+  background-color: #36d43c;
+  border: none;
+  color: black;
+  height: 35px;
+  float:right;
+  padding: 4px 25px;
+  position: relative;
+  top: -129%;
+  border-radius: 5px;
+  font-weight:bold;
+  font-family:emoji;
+}
+
+
+.modal {
+  position: fixed;
+  z-index: 1;
+  /* padding-top: 100px; */
+  left: 289px;
+  top: 135px;
+  width: 50%;
+  height: 49%;
+  overflow: auto;
+ 
+}
+
+/* Modal Content */
+.modalcontent {
+  background-color:white;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+.head{
+  color:rgb(3 82 6);
+  font-weight:bold;
+}
+.subtitle{
+  color:#e2117b;
+  font-weight:bold;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  .addcartbutton{
+      font-size: 14px;
+      width: 123px;
+  }
+  .subbody{
+      margin-top: 216px;
+      margin-left: -175px;
+  
+  }
+  .head{
+      font-size: 20px;
+
+  }
+  .subtitle{
+      font-size: 11px;
+
+  }
+
+}
+
+
+
+
+
+
+

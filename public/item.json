@@ -1,0 +1,105 @@
+[
+    {
+        "Brand_Name": "Grofers Mother's Choice",
+        "Product_Name": "Grofers Mothers Choice Desi Ghee (Carton)",
+        "Quantity": "1 l",
+        "Price": 414,
+        "MRF": 498,
+        "Imageurl": "./Images/food.jpg",
+        "Offertext": "8% OFF"
+    }
+     
+    ,
+    {
+        "Brand_Name": "Cow & Cate",
+        "Product_Name": "Fruit Cocktail",
+        "Quantity": "2 l",
+        "Price": 486,
+        "MRF": 466,
+        "Imageurl": "./Images/food10.png",
+        "Offertext": "6% OFF"
+    },
+    {
+        "Brand_Name": "Suvai Food",
+        "Product_Name": "Best Suvai",
+        "Quantity": "4 l",
+        "Price": 496,
+        "MRF": 476,
+        "Imageurl": "./Images/food2.jpg",
+        "Offertext": "9% OFF"
+    },
+    {
+        "Brand_Name": "Nestle",
+        "Product_Name": "Ceregrow",
+        "Quantity": "3 l",
+        "Price": 446,
+        "MRF": 436,
+        "Imageurl": "./Images/food3.jpg",
+        "Offertext": "3% OFF"
+    },
+    {
+        "Brand_Name": "Sonic",
+        "Product_Name": "Root Beer Float",
+        "Quantity": "2 l",
+        "Price":  493,
+        "MRF": 543,
+        "Imageurl":"./Images/food4.jpeg",
+        "Offertext": "4% OFF"
+    },
+    {
+        "Brand_Name": "Nestle",
+        "Product_Name": "Cerelack",
+        "Quantity": "6 l",
+        "Price": 433,
+        "MRF": 623,
+        "Imageurl": "./Images/food5.jpeg",
+        "Offertext": "8% OFF"
+    },
+    {
+        "Brand_Name": "Horlicks",
+        "Product_Name": "Horlicks",
+        "Quantity": "5 l",
+        "Price": 873,
+        "MRF": 864,
+        "Imageurl": "./Images/food6.jpg",
+        "Offertext": "2% OFF"
+    },
+    {
+        "Brand_Name": "Organic",
+        "Product_Name": "Tortilla chips",
+        "Quantity": "3 l",
+        "Price": 373,
+        "MRF": 464,
+        "Imageurl": "./Images/food7.jpg",
+        "Offertext": "2% OFF"
+    },
+    {
+        "Brand_Name": "Instant Noodles",
+        "Product_Name": "modomie",
+        "Quantity": "2 l",
+        "Price":  423,
+        "MRF": 354,
+        "Imageurl": "./Images/food8.jpg",
+        "Offertext": "5% OFF"
+    },
+    {
+        "Brand_Name": "Nestle",
+        "Product_Name": "Nestum",
+        "Quantity": "6 l",
+        "Price":  499,
+        "MRF": 401,
+        "Imageurl": "./Images/food9.jpg",
+        "Offertext": "7% OFF"
+    },
+    {
+        "Brand_Name": "A&M",
+        "Product_Name": "Tasty Masala Noodles",
+        "Quantity": "2 l",
+        "Price":  509,
+        "MRF": 399,
+        "Imageurl": "./Images/food10.png",
+        "Offertext": "4% OFF"
+    }
+    
+   
+]
